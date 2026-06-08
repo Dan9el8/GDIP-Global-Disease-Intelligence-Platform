@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Release](https://img.shields.io/github/v/release/dan9el8/GDIP-Global-Disease-Intelligence-Platform)](https://github.com/dan9el8/GDIP-Global-Disease-Intelligence-Platform/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/dan9el8/GDIP-Global-Disease-Intelligence-Platform/ci.yml?branch=main)](https://github.com/yourusername/gdip/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/dan9el8/GDIP-Global-Disease-Intelligence-Platform/ci.yml?branch=main)](https://github.com/dan9el8/GDIP-Global-Disease-Intelligence-Platform/actions)
 [![Coverage](https://img.shields.io/codecov/c/github/dan9el8/GDIP-Global-Disease-Intelligence-Platform)](https://codecov.io/gh/dan9el8/GDIP-Global-Disease-Intelligence-Platform)
 [![Discord](https://img.shields.io/badge/chat-discord-7289da)](https://discord.gg/gdip)
 [![Documentation](https://img.shields.io/badge/docs-gdip.dev-blue)](https://gdip.dev)
